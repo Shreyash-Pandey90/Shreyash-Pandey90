@@ -19,7 +19,7 @@ I'm  a 3rd-year engineering student with a passion for crafting beautiful code a
 <br>
 
 
-<img src="https://github.com/Shreyash-Pandey90/Shreyash-Pandey90/assets/93475758/214164ee-c659-4fc9-9a97-fb4cad594f27" align=right alt="na" width="400">
+<img src="UI Developer.gif" align=right alt="na" width="400">
 
 ### 🔧 Languages and Tools:
 <p align="left">
