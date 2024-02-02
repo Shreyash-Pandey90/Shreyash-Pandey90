@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://media.giphy.com/media/12bW6cgoa3oZug/giphy.gif" alt="Coding GIF" width="100%">
+<img src="github-header-image.png" alt="Coding GIF" height="60%">
 
 <h1 align="center">Hello World! 🌍 I'm Shreyash Pandey!</h1>
 <h5 align="center">Curious Coder | Learning Enthusiast | Aspiring Developer </h5>
