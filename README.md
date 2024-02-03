@@ -28,7 +28,7 @@ I'm  a 3rd-year engineering student with a passion for crafting beautiful code a
 
 
 ### 🚀 Current Focus:
-- 🧠 Mastering React to create mind-blowing UIs.
+- 🧠 Learning React to create mind-blowing UIs.
 - 💼 Exploring the world of backend with C# and .NET Core.                                                            
 - 📚 Learning advanced algorithms to become a coding wizard.
 - 💻 Working on projects that make the world a funnier place.
