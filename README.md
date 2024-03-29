@@ -35,6 +35,15 @@ I'm  a 3rd-year engineering student with a passion for crafting beautiful code a
 
 
 
+### Projects:
+- **Project 1:** Task Flow   [Live Demo](https://shreyashtaskflow.netlify.app/) <!-- Replace '#' with your live demo link -->
+- **Project 2:** Sustainable_Dev       [Live Demo](https://shreyash-pandey90.github.io/Sustainable-Dev/) 
+- **Project 3:** Rock-Paper-Scissor   [Live Demo](https://playepsc.netlify.app/)
+- **Project 4:** Etch-A-Sketch        [Live Demo](https://sketch90.netlify.app/) 
+
+<br>
+<br>
+<br>
 
 ### 📬 Let's Connect:
 
