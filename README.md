@@ -1,13 +1,10 @@
-
-
 <h1 align="center">Hello World! 🌍 I'm Shreyash Pandey!</h1>
-<h5 align="center">Curious Coder | Learning Enthusiast | Aspiring Developer </h5>
-<br>
+<h5 align="center">Curious Coder | Learning Enthusiast | Aspiring Software Developer </h5>
 <br>
 
 <h1 align="center">Welcome to my GitHub Playground 🎮</h1>
 
-I'm  a 3rd-year engineering student with a passion for crafting beautiful code and solving complex problems. Armed with HTML, CSS, JavaScript, and a knack for UI/UX design in Figma, I'm on a mission to conquer the digital world one line of code at a time. 🚀
+I'm a final-year Computer Science Engineering student with a passion for building impactful solutions. With expertise in **Java**, **Spring**, **Spring Boot**, **React.js**, **Node.js**, and **Unit,Integration,Automation Testing** using **Playwright** and **TestNG**, I love turning ideas into functional and scalable products. 🚀
 
 
 * 🌍  I'm based in India
@@ -29,20 +26,27 @@ I'm  a 3rd-year engineering student with a passion for crafting beautiful code a
 
 ### 🚀 Current Focus:
 - 🧠 Learning React to create mind-blowing UIs.
-- 💼 Exploring the world of backend with C# and .NET Core.                                                            
+- 💼 Exploring the world of backend with  Spring,NodeJs and .NET Core.                                                            
 - 📚 Learning advanced algorithms to become a coding wizard.
 - 💻 Working on projects that make the world a funnier place.
 
-
+### 💼 Internship Experience:
+- **SDE Intern at Demandbase** (6 months)  
+  - Developed RESTful APIs using **Java** and **Spring Boot** for improved performance.
+  - Conducted automation testing with **Playwright** and **TestNG**, enhancing test coverage.
+  - Enhanced UI features using **React.js** for improved user experience.
+  - Delivered **DBIntent Export** for seamless CSV/Excel data export.
+  - Implemented **Pod Disruption Budget (PDB)** for system stability.
+  - Conducted **Veracode** analysis for improved application security.
+  - Collaborated with cross-functional teams for successful deployments.
 
 ### Projects:
 - **Project 1:** Task Flow   [Live Demo](https://shreyashtaskflow.netlify.app/) <!-- Replace '#' with your live demo link -->
 - **Project 2:** Sustainable_Dev       [Live Demo](https://shreyash-pandey90.github.io/Sustainable-Dev/) 
 - **Project 3:** Rock-Paper-Scissor   [Live Demo](https://playepsc.netlify.app/)
-- **Project 4:** Etch-A-Sketch        [Live Demo](https://sketch90.netlify.app/) 
+- **Project 4:** Etch-A-Sketch        [Live Demo](https://sketch90.netlify.app/)
+- **Project 5:** Ecommerce Application  [Live Demo](https://foreverbuy.in/) 
 
-<br>
-<br>
 <br>
 
 ### 📬 Let's Connect:
